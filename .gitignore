@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+builds/PlaydateGame.pdx/font/Mini Sans 2X.pft
+builds/PlaydateGame.pdx/main.pdz
+builds/PlaydateGame.pdx/pdxinfo
