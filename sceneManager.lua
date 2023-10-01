@@ -16,7 +16,7 @@ function SceneManager:loadNewScene()
 end
 
 function SceneManager:cleanupScene()
-    gfx,sprite.removeAll()
+    gfx.sprite.removeAll()
     self:removeAllTimers()
     gfx.setDrawOffset(0, 0)
 end
